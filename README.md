@@ -6,10 +6,10 @@
 
 **Currently:** *Building a detail book page*
 **Current Issue:**
- * Facing Problem to navigate to the detail book page*
- * Reciving Weird TemplateUrl after Pressing The Detail View Button.*
+ *Facing Problem to navigate to the detail book page somehow I*
+ *receive weird templateUrl after Pressing The Detail View Button.*
 
-## To Do Late:
+## To Do Later:
 * Add Page To Add Books
 * Delete Books
 
