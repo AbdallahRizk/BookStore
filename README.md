@@ -9,8 +9,7 @@
 **FrontEnd:** *Building a detail book page*
 
 ## Current Issue: ##
- *Facing Problem to navigate to the detail book page somehow I*
- *receive weird templateUrl after Pressing The Detail View Button.*
+ *None*
 
 ### To Do Later: ###
 * Create page to give the ability to add new books From the frontend angular
