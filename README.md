@@ -13,8 +13,8 @@
  *receive weird templateUrl after Pressing The Detail View Button.*
 
 ### To Do Later: ###
-* Create page to give the ability to add new books with angular
-* Create the ability to delete books
+* Create page to give the ability to add new books From the frontend angular
+* Create the ability to delete books from the frontend angular
 
 #### Next: ####
 * Build Authentication, Using JSON web token authentication 
