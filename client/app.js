@@ -25,3 +25,11 @@ myApp.config(function($routeProvider){
         redirectTo: '/'
     })
 });
+
+
+// This configration is just to disabl ethe hashPrefix ! by deleteing this configration u need to add ! after all # in the templateUrl
+myApp.config(['$locationProvider', 
+function($locationProvider) {
+   $locationProvider.hashPrefix('');
+}
+]);

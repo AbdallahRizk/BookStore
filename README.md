@@ -5,23 +5,27 @@
 *the current issue.*
 
 ## Currently: ##
-**BackEnd:**  *Already done with GET,POST,PUT,DELETE requests to add or delete, edit and update books*
-**FrontEnd:** *Building a detail book page*
+**BackEnd:** *Authentication, Using JSON web token authentication BackEnd*
+**FrontEnd:** *Wait till I figured Out the Backend*
 
 ## Current Issue: ##
  *None*
 
 ### To Do Later: ###
-* Create page to give the ability to add new books From the frontend angular
-* Create the ability to delete books from the frontend angular
+*Build Authentication, Using JSON web token authentication  For the Front End*
+
 
 #### Next: ####
-* Build Authentication, Using JSON web token authentication 
 * Login with FaceBook, Google , By using Passport
 * Add Book in a user List to be in the reading list
 * Comments on each book with a given review by users
 * Show the over all rate of each book once entering the book details page
 * Build Native Front End to the samrphones using React Native for both Android and IOS
 * Figured out the server hoster and configration, AppEngine, Azure, AWS, Heroku
+
+
+####Done####
+* *Already done with GET,POST,PUT,DELETE requests to add or delete, edit and update books From the Backend*
+* *Already done with GET,POST,PUT,DELETE requests to add or delete, edit and update books From the frontEnd*
 
 
